@@ -13,3 +13,7 @@
 .mb-4, .my-4 {
     margin-bottom: 1.5rem!important;
 }
+
+.topbar {
+    height: 8.375rem!important;
+}
