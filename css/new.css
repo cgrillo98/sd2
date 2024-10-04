@@ -17,3 +17,8 @@
 .topbar {
     height: 8.375rem!important;
 }
+
+.shadow {
+    box-shadow: none!important;
+}
+
