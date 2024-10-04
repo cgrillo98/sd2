@@ -2,11 +2,14 @@
 
 body {
     color: #515151;
-    font-family: 'Lora', serif;
+    font-family: 'Lora', serif!important;
     font-size: 16px;
     line-height: 1.6;
 }
 
+.rounded {
+    border-radius: 0rem!important;
+}
 
 
 
