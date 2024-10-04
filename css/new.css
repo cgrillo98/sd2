@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+body {
+    color: #515151;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+
+
+
 .bg-gradient-primary {
     background-color: #9a9a9a!important;
     /* background-image: linear-gradient(180deg, #949494 10%, #224abe 100%); */
