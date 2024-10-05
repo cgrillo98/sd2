@@ -57,16 +57,23 @@ body {
     border-radius: 0rem;
 }
 
+.btn-link:hover {
+    color: #5c5c5c!important;
+    text-decoration: underline;
+}
 
+.topbar #sidebarToggleTop:hover {
+    background-color: #efefef!important;
+}
 
 
 @media (min-width: 576px) {
 
     .card-inicio {
-        width:100%;
-        background-color:rgba(255, 255, 255, 0.8);
-        margin-left:40%;
-        margin-top:0px;
+        width: 90%;
+        background-color: rgba(255, 255, 255, 0.8);
+        margin-top: 30px;
+        margin-left: 15px;
     }
 
   }
@@ -74,10 +81,10 @@ body {
   @media (min-width: 768px) {
 
     .card-inicio {
-        width:100%;
-        background-color:rgba(255, 255, 255, 0.8);
-        margin-left:40%;
-        margin-top:0px;
+        width: 90%;
+        background-color: rgba(255, 255, 255, 0.8);
+        margin-top: 30px;
+        margin-left: 15px;
     }
 
   }
