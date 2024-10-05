@@ -68,6 +68,21 @@ body {
 
 
 
+@media (max-width: 375px) {
+
+    .card-inicio {
+        width: 90%!important;
+        background-color: rgba(255, 255, 255, 0.8);
+        margin-top: 30px;
+        margin-left: 4%;
+
+        font-size:14px!important;
+        color:red!important;
+    }
+
+  }
+
+
 @media (min-width: 576px) {
 
     .card-inicio {
@@ -98,27 +113,11 @@ body {
   
   @media (min-width: 992px) {
 
-    .card-inicio {
-        width: 90%!important;
-        background-color: rgba(255, 255, 255, 0.8);
-        margin-top: 30px;
-        margin-left: 4%;
-
-        font-size:14px!important;
-        color:blue!important;
-    }
+  
 
   }
   
   @media (min-width: 1200px) {
-    .card-inicio {
-        width: 90%!important;
-        background-color: rgba(255, 255, 255, 0.8);
-        margin-top: 30px;
-        margin-left: 4%;
 
-        font-size:14px!important;
-        color:blue!important;
-    }
 
   }
