@@ -44,6 +44,7 @@ body {
     background-color:rgba(255, 255, 255, 0.7);
     margin-left:40%;
     margin-top:30px;
+    height:100%
 }
 
 
@@ -91,10 +92,9 @@ body {
 }
 
 
-/* minheight revisar si funciona en el home y no afecta la versión en cel */
 .card-body {
     flex: 1 1 auto;
-    /* min-height: 1px; */
+    min-height: 1px; 
     padding: 1.25rem;
 }
 
