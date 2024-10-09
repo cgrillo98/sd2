@@ -76,6 +76,13 @@ body {
     margin-bottom: 0.5rem!important;
 }
 
+
+.img-responsive{
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+}
+
 @media (max-width: 573px) {
 
     .card-inicio {
