@@ -68,7 +68,13 @@ body {
     background-color: #efefef!important;
 }
 
+.topbar {
+    height: 4rem!important;
+}
 
+.mb-4, .my-4 {
+    margin-bottom: 0.5rem!important;
+}
 
 @media (max-width: 573px) {
 
