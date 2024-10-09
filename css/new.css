@@ -90,6 +90,14 @@ body {
         height: auto;
 }
 
+
+/* minheight revisar si funciona en el home y no afecta la versión en cel */
+.card-body {
+    flex: 1 1 auto;
+    /* min-height: 1px; */
+    padding: 1.25rem;
+}
+
 @media (max-width: 573px) {
 
     .card-inicio {
