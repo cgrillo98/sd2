@@ -12,8 +12,7 @@ body {
 }
 
 .logo{
-    margin-left:100px;
-    width:20px;
+    margin-left:40%;
 }
 
 .bg-gradient-primary {
@@ -95,6 +94,10 @@ body {
         border-radius: 0rem;
 
         padding-bottom: 70% !important;
+    }
+
+    .logo{
+        margin-left:0px;
     }
 
    
