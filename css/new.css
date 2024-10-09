@@ -64,6 +64,12 @@ body {
     text-decoration: underline;
 }
 
+.btn-link {
+    font-weight: 400;
+    color: #5c5c5c!important;
+    text-decoration: none;
+}
+
 .topbar #sidebarToggleTop:hover {
     background-color: #efefef!important;
 }
