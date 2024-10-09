@@ -11,7 +11,10 @@ body {
     border-radius: 0rem!important;
 }
 
-
+.logo{
+    margin-left:100px;
+    width:20px;
+}
 
 .bg-gradient-primary {
     background-color: #224abe !important;
