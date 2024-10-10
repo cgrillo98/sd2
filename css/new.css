@@ -37,6 +37,14 @@ body {
     
 }
 
+#wrapper #content-wrapper {
+    background-color: transparent!important;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+
 .mb-4, .my-4 {
     margin-bottom: 1.5rem!important;
 }
