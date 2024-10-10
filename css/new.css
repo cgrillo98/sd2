@@ -116,12 +116,12 @@ body {
 }
 
 
-.img-responsive{
-        width: 100%;
-        max-width: 300px;
-        height: auto;
+.img-responsive {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    background-color: white;
 }
-
 
 .card-body {
     flex: 1 1 auto;
