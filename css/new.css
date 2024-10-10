@@ -43,7 +43,12 @@ body {
     overflow-x: hidden;
 }
 
-
+.sidebar-dark .nav-item .nav-link {
+    color: red;
+}
+.sidebar-dark .nav-item.active .nav-link {
+    color: red;
+}
 
 .mb-4, .my-4 {
     margin-bottom: 1.5rem!important;
@@ -51,6 +56,10 @@ body {
 
 .topbar {
     height: 8.375rem!important;
+}
+
+.bg-white {
+    background-color: transparent;
 }
 
 .shadow {
