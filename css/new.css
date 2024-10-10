@@ -130,6 +130,14 @@ body {
 }
 
 
+body.sidebar-toggled footer.sticky-footer {
+    width: 100%;
+    background-color: transparent!important;
+}
+
+
+
+
 
 @media (max-width: 573px) {
 
