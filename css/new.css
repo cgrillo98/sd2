@@ -24,7 +24,8 @@ body {
 
 #wrapper #content-wrapper #content {
     flex: 1 0 auto;
-    background-color: white!important;
+    /* background-color: white!important; */
+    
 }
 
 .mb-4, .my-4 {
@@ -54,7 +55,7 @@ body {
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #fff;
+      /* background-color: #fff; */
     background-clip: border-box;
     border: 0px solid #e3e6f0;
     border-radius: 0rem;
