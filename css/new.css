@@ -45,9 +45,11 @@ body {
 
 .sidebar-dark .nav-item .nav-link {
     color: red;
+    background-color: #969696;
 }
 .sidebar-dark .nav-item.active .nav-link {
     color: red;
+    background-color: #969696;
 }
 
 .mb-4, .my-4 {
