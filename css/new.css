@@ -46,7 +46,9 @@ body {
 .sidebar-dark .nav-item .nav-link {
     color: red;
     background-color: #969696;
+    margin-top: 0.3rem;
 }
+
 .sidebar-dark .nav-item.active .nav-link {
     color: red;
     background-color: #969696;
