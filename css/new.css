@@ -49,9 +49,12 @@ body {
     margin-top: 0.3rem;
 }
 
+
 .sidebar-dark .nav-item.active .nav-link {
-    color: red;
-    background-color: #969696;
+    color: #ffffff;
+    background-color: #303030;
+    height: 30px;
+    padding: 0.5rem;
 }
 
 .mb-4, .my-4 {
