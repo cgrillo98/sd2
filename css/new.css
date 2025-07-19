@@ -44,18 +44,20 @@ body {
 }
 
 .sidebar-dark .nav-item .nav-link {
-    color: red;
-    background-color: #969696;
+    color: #2f2f2f;
+    background-color: rgba(255, 99, 71, 0.3);
     margin-top: 0.3rem;
 }
 
-
 .sidebar-dark .nav-item.active .nav-link {
-    color: #ffffff;
-    background-color: #303030;
+    color: #2f2f2f;
+    background-color: rgba(255, 99, 71, 0.3);
     height: 30px;
     padding: 0.5rem;
 }
+
+
+
 
 .mb-4, .my-4 {
     margin-bottom: 1.5rem!important;
